@@ -4,3 +4,5 @@ I also do some change ---gitlearning2
 I just want to know how to resolve confilict?
 try to do something gitlearning
 test rebase
+
+third test rebas by jenny
